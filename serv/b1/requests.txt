@@ -1,0 +1,4 @@
+aiogram
+db-sqlite3
+rich
+requests
